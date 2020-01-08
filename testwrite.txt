@@ -1,0 +1,3 @@
+My first record:
+
+Hello world of GitHub
