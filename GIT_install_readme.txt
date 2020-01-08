@@ -1,4 +1,9 @@
-﻿git clone <адресс ссылки на репозиторий github>
+﻿установка с сайта https://git-scm.com/download/win
+качаем файл Git-2.24.1.2-64-bit
+
+на вкладке выбираем --> adjusting your patch -> use git ... Command Prompt 
+
+git clone <адресс ссылки на репозиторий github>
 
 git push -u origin master
 
