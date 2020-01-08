@@ -5,7 +5,9 @@
 
 git clone <адресс ссылки на репозиторий github>
 
-git push -u origin master
+git push -u origin master -- 
+
+git pull -- вытянуть изменения
 
 git commit -am -- создание комментария
 
