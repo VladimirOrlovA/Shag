@@ -1,8 +1,12 @@
-git clone <адресс ссылки на репозиторий github>
+п»їgit clone <Р°РґСЂРµСЃСЃ СЃСЃС‹Р»РєРё РЅР° СЂРµРїРѕР·РёС‚РѕСЂРёР№ github>
 
 git push -u origin master
 
-git commit -am -- создание комментария
+git commit -am -- СЃРѕР·РґР°РЅРёРµ РєРѕРјРјРµРЅС‚Р°СЂРёСЏ
+
+git status -- РїСЂРѕРІРµСЂРёС‚СЊ СЃС‚Р°С‚СѓСЃ
+
+git add . -- РґРѕР±Р°РІРёС‚СЊ С„Р°Р№Р»С‹
 
 
 
@@ -42,7 +46,7 @@ error: switch `m' requires a value
 
 C:\xampp\htdocs\Shag>git commit -am "first commit"
 [master (root-commit) 914192f] first commit
- Committer: Владимир Орлов <ОрловВ@local.itstep>
+ Committer: Р’Р»Р°РґРёРјРёСЂ РћСЂР»РѕРІ <РћСЂР»РѕРІР’@local.itstep>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
 You can suppress this message by setting them explicitly. Run the
